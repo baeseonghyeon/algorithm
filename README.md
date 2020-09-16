@@ -1,5 +1,5 @@
 # python-algorithm
 
-Python 자료구조 및 알고리즘 입니다.
+Python 자료구조 및 알고리즘
 
 (...)
