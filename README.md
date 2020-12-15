@@ -4,7 +4,7 @@
 
 ## 백준
 - User : [bsesh](https://www.acmicpc.net/user/baesh)
-- Solved : 46
+- Solved : 51 (2020.12)
 - Language : C++, Javascript, Ptyhon
 
 ## 프로그래머스
