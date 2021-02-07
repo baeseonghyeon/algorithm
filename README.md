@@ -4,9 +4,9 @@
 
 ## 백준
 - User : [bsesh](https://www.acmicpc.net/user/baesh)
-- Solved : 51 (2020.12)
+- Solved : 70 (2021.02)
 - Language : C++, Javascript, Ptyhon
 
 ## 프로그래머스
-
+- 스킬체크 : 1단계
 (...)
