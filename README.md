@@ -8,6 +8,6 @@
 - Language : C++, JavaScript, Python
 
 ## 프로그래머스
-- 스킬체크 : 1단계
+-  스킬 체크 테스트 : Level.1
 
 (...)
