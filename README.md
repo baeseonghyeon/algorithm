@@ -2,9 +2,10 @@
 
 자료구조 및 알고리즘
 
+"아직 많이 부족하지만 꾸준히 공부📚 중 입니다!🧑🏻‍💻"
+
 ## 백준
-- User : [bsesh](https://www.acmicpc.net/user/baesh)
-- Solved : 70 (2021.02)
+- User : [bsesh](https://solved.ac/profile/baesh)
 - Language : C++, JavaScript, Python
 
 ## 프로그래머스
