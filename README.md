@@ -4,7 +4,7 @@
 
 "아직 많이 부족하지만 꾸준히 공부📚 중 입니다!🧑🏻‍💻"
 
-## 백준
+## 백준 (solved.ac)
 - User : [bsesh](https://solved.ac/profile/baesh)
 - Language : C++, JavaScript, Python
 
